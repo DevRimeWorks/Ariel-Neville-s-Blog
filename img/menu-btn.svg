@@ -1,0 +1,17 @@
+<svg width="25" height="11" viewBox="0 0 25 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="25" height="11" fill="#1E1E1E"/>
+<g id="iPhone 14 - 1" clip-path="url(#clip0_3_5)">
+<rect width="390" height="4036" transform="translate(-25 -29)" fill="white"/>
+<rect id="Rectangle 23" x="-25" y="-29" width="390" height="70" fill="#45A0A2"/>
+<g id="menu-btn">
+<line id="Line 7" y1="0.5" x2="21" y2="0.5" stroke="white"/>
+<line id="Line 8" x1="4" y1="5.5" x2="25" y2="5.5" stroke="#FF9F9F"/>
+<line id="Line 9" y1="10.5" x2="21" y2="10.5" stroke="white"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_3_5">
+<rect width="390" height="4036" fill="white" transform="translate(-25 -29)"/>
+</clipPath>
+</defs>
+</svg>
